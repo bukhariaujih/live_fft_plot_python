@@ -1,15 +1,15 @@
-coloredlogs==10.0
-cycler==0.10.0
-future==0.16.0
-humanfriendly==4.13
-iso8601==0.1.12
-kiwisolver==1.0.1
-matplotlib==2.2.2
-numpy==1.14.5
-pyparsing==2.2.0
-pyserial==3.4
-python-dateutil==2.7.3
-pytz==2018.5
-PyYAML==3.13
-scipy==1.1.0
-six==1.11.0
+conda install coloredlogs=10.0 -y
+conda install cycler=0.10.0 -y
+conda install future=0.16.0 -y 
+pip install humanfriendly==4.13
+conda install iso8601=0.1.12 -y
+conda install kiwisolver=1.0.1 -y
+conda install matplotlib=2.2.2 -y
+conda install numpy=1.14.5 -y
+conda install pyparsing=2.2.0 -y
+conda install pyserial=3.4 -y
+conda install python-dateutil=2.7.3 -y
+conda install pytz=2018.5 -y
+conda install PyYAML=3.13 -y
+conda install scipy=1.1.0 -y 
+conda install six=1.11.0 -y
