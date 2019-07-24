@@ -1,3 +1,4 @@
+conda install python=2.7
 conda install coloredlogs=10.0 -y
 conda install cycler=0.10.0 -y
 conda install future=0.16.0 -y 
