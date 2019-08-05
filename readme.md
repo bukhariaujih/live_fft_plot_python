@@ -13,8 +13,6 @@
 ```bash
 git clone https://github.com/amirrassafi/live_fft_plot_python.git
 cd live_fft_plot_python
-make
-source venv/bin/activate
-python monitor.py ttyUSB0 115200 256
+python monitor.py 'COM3' 115200 256
 ```
 ### [YOUTUBE VIDEO](https://www.youtube.com/watch?v=IsVCZe7NloI)
